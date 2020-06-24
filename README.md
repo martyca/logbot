@@ -1,5 +1,5 @@
 # logbot
-docker image that prints random lines on STDOUT, ideal for testing logging solutions.
+docker image that prints random lines on STDOUT and to `/var/log/logbot.log`, ideal for testing logging solutions.
 ## source files
 mb.txt is a modified version of Moby Dick which is in the public domain, downloaded from [project Gutenberg](https://www.gutenberg.org/)
 ## output interval
